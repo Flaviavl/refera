@@ -1,0 +1,5 @@
+dbt deps # Install dependencies
+dbt seed # Load data into the datawarehouse
+dbt run # Run all models
+dbt test # Test all models
+

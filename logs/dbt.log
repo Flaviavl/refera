@@ -1,0 +1,129 @@
+
+
+============================== 2023-06-02 06:54:59.016215 | 0073d9f9-baa3-4c0a-aae0-43a69d1268b4 ==============================
+06:54:59.016215 [info ] [MainThread]: Running with dbt=1.1.5
+06:54:59.016215 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+06:54:59.016215 [debug] [MainThread]: Tracking: tracking
+06:54:59.016215 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C011F6B708>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C011F6B808>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C011F6B848>]}
+06:54:59.016215 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\gabri\.dbt
+06:57:32.218993 [debug] [MainThread]: Starter project path: C:\Users\gabri\anaconda3\envs\mysqlenv\lib\site-packages\dbt\include\starter_project
+06:58:12.645324 [info ] [MainThread]: Profile refera written to C:\Users\gabri\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+06:58:12.645324 [info ] [MainThread]: 
+Your new dbt project "refera" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+06:58:12.645324 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C011F62188>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C011F62888>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002C01211F388>]}
+
+
+============================== 2023-06-04 17:42:50.348975 | b1a62645-633f-4f21-811a-0ba40133dc47 ==============================
+17:42:50.348975 [info ] [MainThread]: Running with dbt=1.1.5
+17:42:50.348975 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+17:42:50.348975 [debug] [MainThread]: Tracking: tracking
+17:42:50.348975 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF5FE8C88>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF5FE8A88>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF5FE8708>]}
+17:42:50.489567 [debug] [MainThread]: Executing "git --help"
+17:42:50.505188 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF6200888>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF620D2C8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001ACF620D148>]}
+
+
+============================== 2023-06-05 00:27:46.868112 | 2877ef40-3952-48ec-bfe5-69e8c2f0e111 ==============================
+00:27:46.868112 [info ] [MainThread]: Running with dbt=1.1.5
+00:27:46.870105 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+00:27:46.871105 [debug] [MainThread]: Tracking: tracking
+00:27:46.872101 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000261A3BE6B08>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002619FD01708>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002619FCF8D08>]}
+00:27:59.962838 [info ] [MainThread]: A project called refera already exists here.
+00:27:59.964469 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000261A3BE6808>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000261A3BD05C8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000261A3BD0D08>]}
+
+
+============================== 2023-06-05 00:32:22.061169 | be4755fb-bb45-4ed8-85e5-674ea052b2ec ==============================
+00:32:22.061169 [info ] [MainThread]: Running with dbt=1.1.5
+00:32:22.062165 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+00:32:22.062165 [debug] [MainThread]: Tracking: tracking
+00:32:22.063165 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD416DC8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD416C08>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD416B88>]}
+00:32:22.187828 [debug] [MainThread]: Executing "git --help"
+00:32:22.235183 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+00:32:22.235183 [debug] [MainThread]: STDERR: "b''"
+00:32:22.240171 [debug] [MainThread]: Acquiring new mysql connection "debug"
+00:32:22.240171 [debug] [MainThread]: Using mysql connection "debug"
+00:32:22.240171 [debug] [MainThread]: On debug: select 1 as id
+00:32:22.240171 [debug] [MainThread]: Opening a new connection, currently in state init
+00:32:26.348082 [debug] [MainThread]: mysql adapter: Failed connection without supplying the `database`. Trying again with `database` included.
+00:32:30.404854 [debug] [MainThread]: mysql adapter: Got an error when attempting to open a mysql connection: '2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)'
+00:32:30.407839 [debug] [MainThread]: mysql adapter: Error running SQL: select 1 as id
+00:32:30.408836 [debug] [MainThread]: mysql adapter: Rolling back transaction.
+00:32:30.410832 [debug] [MainThread]: On debug: No close available on handle
+00:32:30.434008 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD627548>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD627208>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B5AD627A48>]}
+00:32:31.197784 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2023-06-05 00:33:24.963248 | 340b3f28-f588-4361-82bd-fb89f933e702 ==============================
+00:33:24.963248 [info ] [MainThread]: Running with dbt=1.1.5
+00:33:24.963248 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+00:33:24.963248 [debug] [MainThread]: Tracking: tracking
+00:33:24.963248 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4964A6B08>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4964A6E48>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4964A6D88>]}
+00:33:25.088511 [debug] [MainThread]: Executing "git --help"
+00:33:25.135380 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+00:33:25.135380 [debug] [MainThread]: STDERR: "b''"
+00:33:25.135380 [debug] [MainThread]: Acquiring new mysql connection "debug"
+00:33:25.135380 [debug] [MainThread]: Using mysql connection "debug"
+00:33:25.135380 [debug] [MainThread]: On debug: select 1 as id
+00:33:25.135380 [debug] [MainThread]: Opening a new connection, currently in state init
+00:33:29.192492 [debug] [MainThread]: mysql adapter: Failed connection without supplying the `database`. Trying again with `database` included.
+00:33:33.247030 [debug] [MainThread]: mysql adapter: Got an error when attempting to open a mysql connection: '2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)'
+00:33:33.247030 [debug] [MainThread]: mysql adapter: Error running SQL: select 1 as id
+00:33:33.247030 [debug] [MainThread]: mysql adapter: Rolling back transaction.
+00:33:33.247030 [debug] [MainThread]: On debug: No close available on handle
+00:33:33.262458 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4966B7B08>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4966B7488>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002E4966B7608>]}
+00:33:33.970510 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2023-06-05 00:34:42.200793 | b5f0c2c2-b590-4007-a05f-f43befa2e8a3 ==============================
+00:34:42.200793 [info ] [MainThread]: Running with dbt=1.1.5
+00:34:42.200793 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+00:34:42.200793 [debug] [MainThread]: Tracking: tracking
+00:34:42.200793 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049E546D88>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049E546B48>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049A660988>]}
+00:34:42.294973 [debug] [MainThread]: Executing "git --help"
+00:34:42.342255 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+00:34:42.342255 [debug] [MainThread]: STDERR: "b''"
+00:34:42.342255 [debug] [MainThread]: Acquiring new mysql connection "debug"
+00:34:42.342255 [debug] [MainThread]: Using mysql connection "debug"
+00:34:42.342255 [debug] [MainThread]: On debug: select 1 as id
+00:34:42.342255 [debug] [MainThread]: Opening a new connection, currently in state init
+00:34:42.373504 [debug] [MainThread]: mysql adapter: Failed connection without supplying the `database`. Trying again with `database` included.
+00:34:42.373504 [debug] [MainThread]: mysql adapter: Got an error when attempting to open a mysql connection: '1045 (28000): Access denied for user 'adm'@'localhost' (using password: YES)'
+00:34:42.373504 [debug] [MainThread]: mysql adapter: Error running SQL: select 1 as id
+00:34:42.373504 [debug] [MainThread]: mysql adapter: Rolling back transaction.
+00:34:42.373504 [debug] [MainThread]: On debug: No close available on handle
+00:34:42.373504 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049E757508>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049E757A48>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002049E7576C8>]}
+00:34:43.097321 [debug] [MainThread]: Connection 'debug' was properly closed.
+
+
+============================== 2023-06-05 00:36:16.104671 | 74c5bbad-1e03-43cc-b6cd-3564442c5f53 ==============================
+00:36:16.104671 [info ] [MainThread]: Running with dbt=1.1.5
+00:36:16.120292 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\gabri\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'cache_selected_only': False, 'config_dir': False, 'which': 'debug', 'indirect_selection': 'eager'}
+00:36:16.120292 [debug] [MainThread]: Tracking: tracking
+00:36:16.120292 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FDA6D88>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FDA6AC8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FDA6A48>]}
+00:36:16.198843 [debug] [MainThread]: Executing "git --help"
+00:36:16.245706 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+00:36:16.245706 [debug] [MainThread]: STDERR: "b''"
+00:36:16.258213 [debug] [MainThread]: Acquiring new mysql connection "debug"
+00:36:16.258213 [debug] [MainThread]: Using mysql connection "debug"
+00:36:16.258213 [debug] [MainThread]: On debug: select 1 as id
+00:36:16.258213 [debug] [MainThread]: Opening a new connection, currently in state init
+00:36:16.261723 [debug] [MainThread]: mysql adapter: Failed connection without supplying the `database`. Trying again with `database` included.
+00:36:16.261723 [debug] [MainThread]: mysql adapter: Got an error when attempting to open a mysql connection: '1045 (28000): Access denied for user 'adm'@'localhost' (using password: YES)'
+00:36:16.261723 [debug] [MainThread]: mysql adapter: Error running SQL: select 1 as id
+00:36:16.261723 [debug] [MainThread]: mysql adapter: Rolling back transaction.
+00:36:16.261723 [debug] [MainThread]: On debug: No close available on handle
+00:36:16.277351 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FFB73C8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FFB7208>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002557FFB7848>]}
+00:36:16.972337 [debug] [MainThread]: Connection 'debug' was properly closed.
