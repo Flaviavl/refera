@@ -1,6 +1,11 @@
 # refera
 
 Teste de conexão
-<img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
+<p float="left">
+<img src="https://github.com/Flaviavl/refera/blob/cfba0ad6bec87479a1b5a3c680a2b37ba0eb64fa/dbtdebug.jpg" width="200" />
  
 Foi utilizado o dbt seed para incluir os CSV.
+ 
+ <p float="left">
+<img src="https://github.com/Flaviavl/refera/blob/cfba0ad6bec87479a1b5a3c680a2b37ba0eb64fa/dbtseed.jpg" width="200" />
+ 
