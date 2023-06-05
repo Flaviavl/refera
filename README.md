@@ -1,4 +1,14 @@
-# refera
+# Refera
+
+Esse é o material de entrega para participar do precesso seletivo da refera. Atravez de um CSV do DVD rental foi solicitado uma analise desse desse material utilizando o processo de ETL.
+
+# Extração
+
+Os dados foram extraidos do link https://drive.google.com/file/d/1NbCcMPwUBAXiC8rIxz_oxFtMHE4hR39L/view e atravez do codigo python alterei o nome dos arquivos. 
+
+# Transformação
+
+Para iniciar o processo de transformação fiz a conexão com o banco de dados e carreguei os CSV no banco.
 
 Teste de conexão
 <p float="left">
